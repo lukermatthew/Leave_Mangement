@@ -49,8 +49,8 @@ This Application is using Laravel, Materialize-css
 #### ScreenShot
 
 
-![screen shot](https://github.com/lukermatthew/Leave_Mangement/blob/master/screenshot/3.jpg)
 ![screen shot](https://github.com/lukermatthew/Leave_Mangement/blob/master/screenshot/4.jpg)
+![screen shot](https://github.com/lukermatthew/Leave_Mangement/blob/master/screenshot/3.jpg)
 ![screen shot](https://github.com/lukermatthew/Leave_Mangement/blob/master/screenshot/2.jpg)
 ![screen shot](https://github.com/lukermatthew/Leave_Mangement/blob/master/screenshot/1.jpg)
 
